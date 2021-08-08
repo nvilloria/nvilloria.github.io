@@ -449,6 +449,27 @@
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\ZQADGT3B\\Villoria - 2019 - Consequences of agricultural total factor producti.pdf}
 }
 
+@inproceedings{villoria2020,
+  title = {Land {{Supply Elasticity}} in the {{U}}.{{S}}. {{A Spatially Explicit Approach}}},
+  booktitle = {Agricultural and {{Applied Economics Association Annual Meeting}}},
+  author = {Villoria, Nelson B. and Chakravarty, Shourish and Delgado, Michael S.},
+  year = {2020},
+  address = {{Virtual}},
+  keywords = {inprogress,sabbatical,zerodef}
+}
+
+@techreport{villoria2020a,
+  type = {Working {{Paper}}},
+  title = {International {{Trade}} and {{Domestic Price Stability}} in the {{Presence}} of {{Large Scale Climate Shocks}}},
+  author = {Villoria, Nelson},
+  year = {2020},
+  month = nov,
+  abstract = {Worldwide climates are correlated, typically over thousands of kilometers, through the so-called climate ``teleconnections'' such as El Nin\texttildelow o/Southern Oscillation (ENSO). I assess the relevance of spatially correlated ENSO-driven supply shocks on domestic producer and consumer maize prices in Southern and Eastern Africa. I find that both farm-gate and consumer price indices derived from a structural gravity model of trade increase significantly in response to ENSO shocks. A hypothetical full trade facilitation scenario in Southern and Eastern Africa reduces the volatility of maize consumer prices, but do not eliminate the sensitivity of maize consumer prices to ENSO shocks. This highlights that international trade, even under extreme unilateral trade liberalization, may not be enough to completely eliminate price spikes when supply shocks are correlated among close trading partners.},
+  language = {en},
+  keywords = {inprogress},
+  file = {C\:\\Users\\Nelson\\Zotero\\storage\\LD4BS5D7\\Villoria - International Trade and Domestic Price Stability i.pdf}
+}
+
 @techreport{villoria2021a,
   type = {Working {{Paper}}},
   title = {Lack of {{Ambition}}, {{Not Leakage}}, Is {{What Can Make Brazil}}'s {{Soybean Supply}}-{{Chain Zero Deforestation Commitments Ineffective}}},

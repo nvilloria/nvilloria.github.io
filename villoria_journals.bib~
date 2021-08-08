@@ -18,7 +18,7 @@
   issn = {2211-9124},
   abstract = {The role of intensification in minimizing cropland and slowing deforestation is often disputed. We make a broad distinction between technology-induced and market-induced intensification. We find evidence at the local level that technical progress in a few cases may induce land expansion although much depends on where the technical change occurs (near the forest frontier or away from it) and the type of market (local or global). At a global level, technology-driven intensification is strongly land saving although deforestation in specific regions is likely to continue to occur. Market-driven intensification, however, is often a major cause of land expansion and deforestation especially for export commodities in times of high prices. Beyond land saving, the type of intensification matters a lot for environmental outcomes. Finally, technology-driven intensification by itself is unlikely to arrest deforestation unless accompanied by stronger governance of natural resources.},
   copyright = {All rights reserved},
-  keywords = {forestleaks,forestleaks-II,LandScarcity,sabbatical},
+  keywords = {forestleaks,forestleaks-II,globallanduse,LandScarcity,sabbatical},
   annotation = {Land use leakage and deforestation},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\3TUG4DUS\\Byerlee et al. - 2014 - Does intensification slow crop land expansion or e.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\U7RIXPRI\\S221191241400011X.html}
 }
@@ -69,7 +69,7 @@
   doi = {10.1016/j.gloenvcha.2018.11.003},
   abstract = {Zero-deforestation commitments are a type of voluntary sustainability initiative that companies adopt to signal their intention to reduce or eliminate deforestation associated with commodities that they produce, trade, and/or sell. Because each company defines its own zero-deforestation commitment goals and implementation mechanisms, commitment content varies widely. This creates challenges for the assessment of commitment implementation or effectiveness. Here, we develop criteria to assess the potential effectiveness of zero-deforestation commitments at reducing deforestation within a company supply chain, regionally, and globally. We apply these criteria to evaluate 52 zero-deforestation commitments made by companies identified by Forest 500 as having high deforestation risk. While our assessment indicates that existing commitments converge with several criteria for effectiveness, they fall short in a few key ways. First, they cover just a small share of the global market for deforestation-risk commodities, which means that their global impact is likely to be small. Second, biome-wide implementation is only achieved in the Brazilian Amazon. Outside this region, implementation occurs mainly through certification programs, which are not adopted by all producers and lack third-party near-real time deforestation monitoring. Additionally, around half of all commitments include zero-net deforestation targets and future implementation deadlines, both of which are design elements that may reduce effectiveness. Zero-net targets allow promises of future reforestation to compensate for current forest loss, while future implementation deadlines allow for preemptive clearing. To increase the likelihood that commitments will lead to reduced deforestation across all scales, more companies should adopt zero-gross deforestation targets with immediate implementation deadlines and clear sanction-based implementation mechanisms in biomes with high risk of forest to commodity conversion.},
   copyright = {All rights reserved},
-  keywords = {zerodef},
+  keywords = {globallanduse,zerodef},
   annotation = {landuse},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\Q55VJK5V\\Garrett et al. - 2019 - Criteria for effective zero-deforestation commitme.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\FRWJERRW\\S0959378018306654.html}
 }
@@ -88,7 +88,7 @@
   abstract = {Global change drivers of land-use/cover change (LUCC) like population dynamics, economic development, and climate change are increasingly important to local sustainability studies, and can only be properly analyzed at fine-scales that capture local biophysical and socio-economic conditions. When sufficiently widespread, local feedback to stresses originating from global drivers can have regional, national, and even global impacts. A multiscale, global-to-local-to-global (GLG) framework is thus needed for comprehensive analyses of LUCC and leakage. The number of GLG-LUCC studies has grown substantially over the past years, but no reviews of this literature and their contributions have been completed so far. In fact, the largest body of literature pertains to global-to-local impacts exclusively, whereas research on local feedback to regional, national, and global spheres remain scarce, and are almost solely undertaken within large modeling institutes. As such, those are rarely readily accessible for modification and extension by outside contributors. This review of the recent GLG-LUCC studies calls for more open-source modeling and availability of data, arguing that the latter is the real constraint to more widespread analyses of GLG-LUCC impacts. Progress in this field will require contributions from hundreds of researchers around the world and from a wide variety of disciplines.},
   copyright = {All rights reserved},
   language = {en},
-  keywords = {sabbatical},
+  keywords = {globallanduse,sabbatical},
   annotation = {landuse},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\4M54C9Y6\\Hertel et al. - 2019 - A review of global-local-global linkages in econom.pdf}
 }
@@ -105,7 +105,26 @@
   doi = {10.1016/j.future.2018.02.005},
   abstract = {Science gateways are an integral component of modern collaborative research. They find widespread adoption by research groups to share data, code and tools both amongst collaborators on a project and the broader community. However, not unlike research groups, gateways too, face the vagaries of research funding often resulting in a bleak outlook for their maintenance beyond the original project's conclusion. We present a sustainability model based on the HUBzero cyberinfrastructure platform that enables multiple research projects to share a single science gateway allowing for their maintenance even after the original funding source has run out. This model brings with it certain other advantages as well; general improvements to the gateway apply to all hosted projects, similar requirements across projects can often be abstracted into new general purpose capabilities for the gateway which feed back into all hosted projects. Such newly developed capabilities can also foster additional research aiding in new funding proposals that can revitalize and jumpstart hosted dormant projects. We describe a specific instance of a HUBzero science gateway, MyGeoHub, that successfully employs this sustainability model to host several geospatial research projects. We also illustrate the specific advantages of this sustainability model in the case of the MyGeoHub gateway that have led to the development of general-purpose data management and visualization software modules that have found use beyond MyGeoHub.},
   copyright = {All rights reserved},
+  keywords = {software},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\3RDG6NJG\\Kalyanam et al. - 2019 - MyGeoHub—A sustainable and evolving geospatial sci.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\GVTSFVTC\\S0167739X17310087.html}
+}
+
+@article{nuno-ledesma2019,
+  title = {Estimating {{International Trade Margins Shares}} by {{Mode}} of {{Transport}} for the {{GTAP Data Base}}},
+  author = {{Nuno-Ledesma}, Jose and Villoria, Nelson B.},
+  year = {2019},
+  month = jun,
+  journal = {Journal of Global Economic Analysis},
+  volume = {4},
+  number = {1},
+  pages = {28--49},
+  issn = {2377-2999},
+  doi = {10.21642/JGEA.040102AF},
+  abstract = {We estimate international transportation margin shares by mode of transport for the Global Trade Analysis Project (GTAP) Data Base. For each available origin-destination-GTAP sector triplet, we estimate the fractional share of the transport margin attributable to air, water, and other shipping modes. We use published relationships between ad valorem proportional changes in prices due to transportation costs and distances, weight-value ratios and fuel prices. Our final database contains 344,554 observations (origin-destination-sector-mode combinations) with transportation margin modal shares organized by 228 exporter countries, 209 importer countries, 45 traded GTAP sectors and 3 transportation modes. The main contribution of this article is to bring a more comprehensive set of information on trade by transport mode covering around 65\% of global trade in 2004 and 55\% in 2011. Our estimated shares contrast with those traditionally used in the GTAP Data Base which are extrapolations based solely on the modes of transport used by US exporters. A comparison of our shares with those used in version 9.0 of the GTAP Data Base reveals that the role of water transportation services in international trade is underestimated, while that of air transportation is overestimated. Overall, we find that estimations using the modal shares in version 9.0 of the GTAP Data Base overestimate the greenhouse gas emissions associated with international transport. Our new data were used to estimate transport margins by mode in Version 9.1 of the GTAP Data Base, and it is expected that our methods will be used to update future versions of the database.},
+  copyright = {Copyright (c) 2019 Jose G. Nuno-Ledesma, Nelson B. Villoria},
+  language = {en},
+  keywords = {tradepolicy},
+  file = {C\:\\Users\\Nelson\\Zotero\\storage\\HLHEB9JP\\Nuno-Ledesma and Villoria - 2019 - Estimating International Trade Margins Shares by M.pdf}
 }
 
 @article{song2018,
@@ -138,9 +157,27 @@
   issn = {0027-8424, 1091-6490},
   copyright = {All rights reserved},
   language = {en},
-  keywords = {AEPPDEFOR,ERL-SpecialIssue-TH,forestleaks,forestleaks-II,GHGForum,LandScarcity,lusupply,sabbatical},
+  keywords = {AEPPDEFOR,ERL-SpecialIssue-TH,forestleaks,forestleaks-II,GHGForum,globallanduse,LandScarcity,lusupply,sabbatical},
   annotation = {Land use leakage and deforestation},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\8VVX8BUT\\pnas.201208065SI.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\W583FA3R\\Stevenson et al. - 2013 - Green Revolution research saved an estimated 18 to.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\VGST7E3D\\1208065110.full.html}
+}
+
+@article{ubilava2019a,
+  title = {Smooth Transitions across Latitudes and Longitudes: {{An}} Application of a Nonlinear Panel Regression to the Climate\textemdash Economics Nexus},
+  shorttitle = {Smooth Transitions across Latitudes and Longitudes},
+  author = {Ubilava, David and Villoria, Nelson B. and Tack, Jesse B.},
+  year = {2019},
+  month = sep,
+  journal = {Economics Letters},
+  volume = {182},
+  pages = {114--117},
+  issn = {0165-1765},
+  doi = {10.1016/j.econlet.2019.06.011},
+  abstract = {We propose the smooth transitions across latitudes and longitudes framework, a special case of the panel smooth transition regression, which allows the heterogeneity of coefficients based on countries' geographic location. Using this framework we examine the effect of El Ni\~no Southern Oscillation on economic growth. We find a wide range of effects spanning -4\% to 3\% per capita GDP growth rates across 137 countries. This finding can be of value to researchers in the fields of economic growth and climate econometrics.},
+  copyright = {All rights reserved},
+  language = {en},
+  keywords = {tradeclimate_afri,weatherextremes},
+  file = {C\:\\Users\\Nelson\\Zotero\\storage\\BJTFVWCV\\Ubilava et al. - 2019 - Smooth transitions across latitudes and longitudes.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\FQ3V3ADL\\S0165176519302241.html}
 }
 
 @inproceedings{villoria2002,
@@ -199,7 +236,7 @@
   pages = {919--935},
   abstract = {This article investigates the relationship between international trade patterns and the global distribution of coarse grain production responses to market developments in the United States. Our null hypothesis is that world markets are fully integrated, rendering the geographic persistence of bilateral trade flows irrelevant in the global production response to a change in U.S. prices. The alternative hypothesis allows price transmission to vary along with the intensity of competition among countries in specific markets. Using data from 1975 to 2002, we reject the null hypothesis. Our work has direct implications for the analysis of the global land use impacts of biofuel mandates.},
   copyright = {All rights reserved},
-  keywords = {AFRI-GLASS,AGEC840,bilook,ERL-SpecialIssue-TH,footrasys,forestleaks,LandScarcity,lusupply,sandiego,tradepolicy,zerodef},
+  keywords = {AFRI-GLASS,AGEC840,bilook,ERL-SpecialIssue-TH,footrasys,forestleaks,globallanduse,LandScarcity,lusupply,sandiego,tradepolicy,zerodef},
   annotation = {Land use leakage and deforestation},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\69ZCEB7T\\aar025supp.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\GZAKZBFD\\Villoria and Hertel - 2011 - Geography Matters International Trade Patterns an.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\CKPG7Z4S\\ajae.aar025.html}
 }
@@ -231,7 +268,7 @@
   number = {5},
   pages = {1301--1308},
   copyright = {All rights reserved},
-  keywords = {AEPPDEFOR,ERL-SpecialIssue-TH,forestleaks,sabbatical},
+  keywords = {AEPPDEFOR,ERL-SpecialIssue-TH,forestleaks,globallanduse,sabbatical},
   annotation = {Land use leakage and deforestation},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\WNNGBVJM\\Am. J. Agr. Econ.-2013-Villoria-ajae_aat034.pdf}
 }
@@ -250,7 +287,7 @@
   abstract = {Increasing agricultural yields seem an obvious way to satisfy increasing demands for food and fuel while minimizing expansion of agriculture into forest areas; however, an influential literature worries that promoting agricultural innovation could enhance agriculture's profitability thereby encouraging deforestation. Clarifying the effects of agricultural technological progress on deforestation is therefore crucial for designing effective policy responses to the challenges faced by global agriculture. In this article we review the empirical evidence on these effects and synthesize estimates of future global cropland expansion. Our main insights are that: (i) the empirical evidence on a positive link between regional technological progress and deforestation is much weaker than what seems generally accepted; (ii) at a global level, most analysts expect broad based technological progress to be land saving; however, composition effects are important as low-yield, land-abundant regions are likely to experience further land expansion. Toward the future, empirical work understanding how localized technological progress in agriculture transmits through international trade and commodity markets will help to bridge the gap between the findings of local, econometric, studies on the one hand and global, model based, studies on the other.},
   copyright = {All rights reserved},
   language = {en},
-  keywords = {forestleaks,forestleaks-II,LandScarcity,lusupply,sabbatical,zerodef},
+  keywords = {forestleaks,forestleaks-II,globallanduse,LandScarcity,lusupply,sabbatical,zerodef},
   annotation = {Land use leakage and deforestation},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\RXUSZPEF\\Villoria et al. - 2014 - The Effects of Agricultural Technological Progress.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\VVQFDUMP\\211.html}
 }
@@ -273,17 +310,6 @@
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\X7DV39M8\\Villoria and Mghenyi - 2016 - The Impacts of India's Food Security Policies on S.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\F558MEIM\\wber.html}
 }
 
-@article{villoria2016a,
-  title = {Delivery of Historical and Future Climate Data through {{GEOSHARE}}'s {{Hub}}},
-  author = {Villoria, Nelson B. and Elliott, Joshua and M{\"u}ller, Christoph and Shin, Jaewoo and Zhao, Lan and Song, Carol},
-  year = {2016},
-  month = aug,
-  journal = {In preparation},
-  copyright = {All rights reserved},
-  keywords = {weatherextremes},
-  file = {C\:\\Users\\Nelson\\Zotero\\storage\\ETAC2S6R\\Villoria et al. - 2016 - Rapid aggregation of global gridded crop model out.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\D6IWWSS9\\S1364815215300748.html}
-}
-
 @article{villoria2016b,
   title = {Rapid Aggregation of Global Gridded Crop Model Outputs to Facilitate Cross-Disciplinary Analysis of Climate Change Impacts in Agriculture},
   author = {Villoria, Nelson B. and Elliott, Joshua and M{\"u}ller, Christoph and Shin, Jaewoo and Zhao, Lan and Song, Carol},
@@ -295,7 +321,7 @@
   issn = {1364-8152},
   doi = {10.1016/j.envsoft.2015.10.016},
   copyright = {All rights reserved},
-  keywords = {CMIP5inHUBzero,correlmaiz,sabbatical,tradeclimate_afri,weatherextremes},
+  keywords = {CMIP5inHUBzero,correlmaiz,sabbatical,software,tradeclimate_afri,weatherextremes},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\SNJK7H5R\\EMSpaperonAgmip.pdf}
 }
 
@@ -308,7 +334,7 @@
   number = {1},
   pages = {480--487},
   copyright = {All rights reserved},
-  keywords = {rgtap,tradeclimate_afri}
+  keywords = {rgtap,software,tradeclimate_afri}
 }
 
 @article{villoria2017b,
@@ -320,7 +346,7 @@
   number = {2},
   pages = {128--154},
   copyright = {All rights reserved},
-  keywords = {tradeclimate_afri}
+  keywords = {software,tradeclimate_afri}
 }
 
 @article{villoria2018,
@@ -335,7 +361,7 @@
   doi = {10.1016/j.softx.2017.11.004},
   abstract = {Access to climate and spatial datasets by non-specialists is restricted by technical barriers involving hardware, software and data formats. We discuss an open-source online tool that facilitates downloading the climate data from the global circulation models used by the Inter-Sectoral Impacts Model Intercomparison Project. The tool also offers temporal and spatial aggregation capabilities for incorporating future climate scenarios in applications where spatial aggregation is important. We hope that streamlined access to these data facilitates analysis of climate related issues while considering the uncertainties derived from future climate projections and temporal aggregation choices.},
   copyright = {All rights reserved},
-  keywords = {correlmaiz,sabbatical,tradeclimate_afri,weatherextremes},
+  keywords = {correlmaiz,sabbatical,software,tradeclimate_afri,weatherextremes},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\LPLX97I8\\Villoria et al. - 2018 - Web-based access, aggregation, and visualization o.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\QNM9WK84\\S2352711017300626.html}
 }
 
@@ -398,9 +424,58 @@
   abstract = {Abstract.  We estimate the effects of agricultural technological progress on cropland expansion at various geographical resolutions, from the country level to t},
   copyright = {All rights reserved},
   language = {en},
-  keywords = {forestleaks-II,LandScarcity,sabbatical,zerodef},
+  keywords = {forestleaks-II,globallanduse,LandScarcity,sabbatical,tradepolicy,zerodef},
   annotation = {landuse},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\SD8SJ795\\Villoria - 2019 - Technology Spillovers and Land Use Change Empiric.pdf;C\:\\Users\\Nelson\\Zotero\\storage\\MY5YM69V\\5273611.html}
+}
+
+@article{villoria2019b,
+  title = {Consequences of Agricultural Total Factor Productivity Growth for the Sustainability of Global Farming: Accounting for Direct and Indirect Land Use Effects},
+  shorttitle = {Consequences of Agricultural Total Factor Productivity Growth for the Sustainability of Global Farming},
+  author = {Villoria, Nelson},
+  year = {2019},
+  month = nov,
+  journal = {Environmental Research Letters},
+  volume = {14},
+  number = {12},
+  pages = {125002},
+  publisher = {{IOP Publishing}},
+  issn = {1748-9326},
+  doi = {10.1088/1748-9326/ab4f57},
+  abstract = {Most of the growth in agricultural output in the last thirty years comes from increases in the efficiency with which both land and non-land inputs are used. Recent work calls for a better understanding of whether this efficiency, known as total factor productivity (TFP), contributes to a more sustainable food system. Key to this understanding is the documented phenomenon that, instead of saving lands, the introduction of technologies that improve agricultural productivity encourage cropland expansion. We extend the results of a recently published econometric model of cross-country cropland change and TFP growth to explore the extent to which improvements in technology were associated with lower greenhouse emissions from land conversion to agriculture as well as with lower land conversion pressures in biodiversity-rich biomes. We focus on the decade of 2001\textendash 2010, a period in which our sample of 70 countries ({$\approx$}75\% of global croplands) experienced net land contraction. Except in sub-Saharan Africa and South and East Asia, regional TFP growth was associated with regional land expansion, thus confirming the existence of Jevons paradox in most regions of the world. However, such expansion was more than offset by indirect land use effects stemming from increases in productivity somewhere else. These indirect effects are far from trivial. In the absence of TFP growth, our estimates suggest that {$\approx$}125 Mha would have been needed to satisfy demand, half of which are in the four most biodiverse biomes of the world; estimated land use emissions from the ensuing changes in land use range from a lower bound of 17 Gt CO2eq to an upper bound of 84 Gt CO2eq, depending on whether the expansion would have occurred on pasturelands or forest, in contrast to the {$\approx$}1 to 15 Gt CO2eq imputed to observed cropland expansion. Our projections of the land needed to satisfy projected growth in TFP per capita during 2018\textendash 2023 indicate that current rates of TFP growth are insufficient to prevent further land expansion, reversing in most cases the in-sample trends in land contraction observed during 2001\textendash 2010.},
+  copyright = {All rights reserved},
+  language = {en},
+  keywords = {globallanduse,LandScarcity,sabbatical},
+  file = {C\:\\Users\\Nelson\\Zotero\\storage\\ZQADGT3B\\Villoria - 2019 - Consequences of agricultural total factor producti.pdf}
+}
+
+@techreport{villoria2021a,
+  type = {Working {{Paper}}},
+  title = {Lack of {{Ambition}}, {{Not Leakage}}, Is {{What Can Make Brazil}}'s {{Soybean Supply}}-{{Chain Zero Deforestation Commitments Ineffective}}},
+  author = {Villoria, Nelson B. and Garrett, Rachael and Carlson, Kimberly and Gollnow, Florian},
+  year = {2021},
+  series = {Presented during the 24th {{Annual Conference}} on {{Global Economic Analysis}} ({{Virtual Conference}})},
+  institution = {{Presented during the 24th Annual Conference on Global Economic Analysis (Virtual Conference)}},
+  abstract = {Corporate voluntary commitments to reduce deforestation offer an important opportunity to conserve tropical forests. Yet, the effectiveness of these commitments is difficult to evaluate. Deforestation is a global phenomenon mediated by market forces; efforts to reduce deforestation in one region may be offset by the displacement (leakage) of agricultural production to other regions. The leakage of production from regions with zero-deforestation (ZD) commitments to other places with less stringent environmental regulations is a major threat to supply-chain ZD commitments. This paper explores the role of leakage in offsetting the potential benefits of ZD commitments implemented in Brazil's soybean supply changes. Existing assessments of zero-deforestation commitments include some measure of localized within- or cross-biome leakage in their analysis, but to best of our knowledge, the cross-border leakage associated with Brazil soybean supply-chain ZD commitments remains unexplored. In this paper we fill this gap by considering the extent to which the potential deforestation benefits of soybean ZD commitments in Brazil can be offset by displacing production elsewhere in the world, either within or outside Brazil. We pay special attention to Bolivia, Argentina, and Paraguay (the BAP region). A main finding is that due to the overlapping spatial footprint of the traders serving both the EU and China's market, EU supply-side restrictions are as effective as if these were enforced by China. We also explore an scenario in which the EU applies a unilateral import tariff on all the soybeans sourced from Brazil. Demand-based boycotts and import bans into the EU are increasingly discussed as potential instruments to exert pressure on Brazil's soybean supply chain. We contrast the land use outcomes of ZD supply-side commitment with the effects of the EU imposing demand-side import tariffs (of 25 percent, 50 percent and 75 percent) on soybeans originated in Brazil.},
+  language = {English},
+  keywords = {inprogress},
+  file = {C\:\\Users\\Nelson\\Zotero\\storage\\WRQJV9PV\\res_display.html}
+}
+
+@techreport{yu2020,
+  type = {Working {{Paper}}},
+  title = {The {{Incidence}} of {{Foreign Market Accessibility}} on {{Farmland Rental Rates}}},
+  author = {Yu, Jisang and Villoria, Nelson B. and Hendricks, Nathan P.},
+  year = {2020},
+  month = may,
+  series = {Working {{Paper Series}}},
+  number = {27180},
+  institution = {{National Bureau of Economic Research}},
+  doi = {10.3386/w27180},
+  abstract = {We estimate the impact of the tariffs that U.S. export crops face on farmland rental rates. The estimation of the impact of the localized measure on the rents faces two aggregation problems that lead to identification challenges: a) aggregating tariffs across trading partners to obtain crop-specific tariffs, and b) aggregating the crop-specific tariffs across crops to obtain the localized measure. Utilizing shift-share style approaches, we find that a one percent increase in the localized tariff reduces the rents by about 2.6 - 5.3\% point, which implies that the 2018 Chinese retaliatory tariffs would reduce the rents by about 2\%.},
+  copyright = {All rights reserved},
+  keywords = {inprogress},
+  file = {C\:\\Users\\Nelson\\Zotero\\storage\\TBQXLNHY\\Yu et al. - 2020 - The Incidence of Foreign Market Accessibility on F.pdf}
 }
 
 @inproceedings{zhao2011,
@@ -416,6 +491,7 @@
   abstract = {The rapid advancement in the collection of environmental data, geospatial analysis and modeling software calls for new GIS-enabled cyberinfrastructure (CI) capable of support large scale integrated data and modeling activities. Although the HUBzero platform is gaining popularity as a portal development framework for many science and engineering communities, it has limited success in earth and environmental science domains, mainly due to its lack of native support for large geospatial data management and GIS functionalities in the Rappture toolkit. In this paper, we describe our initial work on bringing integrated GIS data and modeling capabilities into the HUBzero platform. We describe the overall architecture of our CI solution which is scalable, extensible and portable to other gateway framework as well. Two prototype applications are presented as a proof-of-concept. Coupling the scalable GIS capabilities with a wealth of tools for user participation and community building on the HUBzero platform, we hope to help new science communities in utilizing this platform.},
   copyright = {All rights reserved},
   isbn = {978-1-4503-1040-6},
+  keywords = {software},
   file = {C\:\\Users\\Nelson\\Zotero\\storage\\3Z2FJGGZ\\Zhao et al. - 2011 - Bring Integrated GIS Data and Modeling Capabilitie.pdf}
 }
 

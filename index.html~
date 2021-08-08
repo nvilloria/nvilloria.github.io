@@ -172,7 +172,7 @@
  <button type="button" class="collapsible"> <li>Competition between agricultural land and forest resources</li></button>
 <div class="content">
  <div> 
-    <object type="text/html" data="globallanduse_papers.html" width="100%" height="450px" style="overflow:auto;border:0px ridge white">
+    <object type="text/html" data="globallanduse_papers.html" width="100%" height="600px" style="overflow:auto;border:0px ridge white">
     </object>
  </div>
 </div>
@@ -191,13 +191,13 @@
 
  <button type="button" class="collapsible"><li>Applied international trade, development and trade policy</li></button>
 <div class="content">
-   <object type="text/html" data="appliedtrade_papers" width="100%" height="400px" style="overflow:auto;border:0px ridge white">
+   <object type="text/html" data="appliedtrade_papers" width="100%" height="600px" style="overflow:auto;border:0px ridge white">
     </object>
 </div>
 
  <button type="button" class="collapsible"><li>Software and computational papers</li></button>
 <div class="content">
-   <object type="text/html" data="software_papers" width="100%" height="200px" style="overflow:auto;border:0px ridge white">
+   <object type="text/html" data="software_papers" width="100%" height="600px" style="overflow:auto;border:0px ridge white">
     </object>
 </div>
 

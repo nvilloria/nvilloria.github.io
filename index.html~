@@ -172,7 +172,7 @@
  <button type="button" class="collapsible"> <li>Competition between agricultural land and forest resources</li></button>
 <div class="content">
  <div> 
-    <object type="text/html" data="globallanduse_papers.html" width="100%" height="100%" style="overflow:auto;border:0px ridge white">
+    <object type="text/html" data="globallanduse_papers.html" width="100%" height="450px" style="overflow:auto;border:0px ridge white">
     </object>
  </div>
 </div>

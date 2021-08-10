@@ -1,12 +1,5 @@
 <!DOCTYPE html>
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-<title>Global land use</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-
+<html>
 <body>
 
 <script src="https://bibbase.org/show?bib=https://nvilloria.github.io/villoria_journals.bib&jsonp=1&hidemenu=true&theme=bullets&groupby=&filter=keywords:globallanduse,type:article&authorFirst=1"></script>

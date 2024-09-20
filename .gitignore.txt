@@ -2,4 +2,4 @@
 .Rhistory
 .RData
 .~
-apuntes.html_backup/
+apuntes.html_backup\
